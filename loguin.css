@@ -1,0 +1,166 @@
+* {
+    padding: 0;
+    margin: 0;
+  
+}
+
+body{
+    
+    background-image: url("../img/loguin.jpg");
+    background-size: auto 1000px ;
+
+    /* background-color: cornflowerblue; */
+}
+
+.login {
+    color: rgb(0, 0, 0);
+    background-color: rgb(39, 230, 230);
+    font-size: 30px;
+    width: 97.8%;
+    margin: auto;
+    text-align: center;
+    border: double 5px rgb(5, 5, 5);  
+    padding: 10px;
+    transition: 2.5s;
+}
+
+
+
+h3{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    font-size: 20px;
+    border: double 5px rgb(0, 0, 0);  
+    
+     
+    /* margin-left: 530px; */
+    margin-top: 50px;
+    text-align: center;
+       
+    padding: 10px;
+    border-radius: 15px;
+
+
+}
+
+h4{
+    
+    color: rgb(255, 255, 255);
+    margin-top: -53px;
+    margin-bottom: -30px;
+    margin-left: 150px;
+    
+}
+
+/* .meio{
+   margin-top: -213px;
+   margin-left: 210px;
+   padding: 20px;
+   padding-top: 20px;
+   padding-bottom: 40px;
+   border: solid 5px black;
+   border-radius: 15px 15px 15px 15px;    
+   text-align: center;
+   width: 10%;
+   background-color: rgb(123, 199, 230);
+} */
+
+.previa{
+    width: 700px;
+    margin-top: 2px;
+    margin-left: 340px;
+    height: 300px;
+    border: groove 10px black; 
+    
+}
+   
+
+.previa:hover {    
+   transform: scale(1.1);
+    box-shadow: 1px 1px 10px 1px white;
+}
+
+    
+
+
+.entrar {
+    
+    margin-top: 25px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 27px;
+    padding: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px; 
+    
+}
+
+
+.entrar:hover{       
+    box-shadow: 1px 1px 25px 1px  white;
+    
+}
+
+.contato{
+    
+    margin-top: 80px;
+    /* margin-bottom: -150; */
+    margin-right: 350px;
+    font-size: 30px;    
+    text-align: center;      
+    padding: 10px;
+    
+}
+
+
+
+.links{
+    margin-top: -58px;
+    margin-left: 200px;
+}
+
+.wht{
+
+    margin-left: 480px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.wht2{
+    margin-left: 15px;
+    margin-top: -17px;
+    border-radius: 40px;
+    margin-bottom: 3px;
+    
+
+}
+
+.wht3{
+    margin-left: 15px;
+    margin-top: -14px;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    
+
+    }
+
+
+.wht:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+
+}
+
+.wht2:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+}
+
+.wht3:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+
+
+}
+
+
+
+
+

@@ -1,0 +1,100 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 180px;
+    
+}
+
+
+.wht{
+    margin-top: 15px;
+    margin-left: 150px;
+    border-radius: 15px;
+    text-decoration: none;
+
+}
+
+.wht2{
+    margin-left: 15px;
+    margin-top: auto;
+    border-radius: 40px;
+
+    
+
+}
+
+.wht3{
+    margin-left: 15px;
+    margin-top: px;
+    border-radius: 10px;
+    
+    
+
+    }
+
+
+.wht:hover{
+    box-shadow: 1px 1px 25px 1px  rgb(255, 255, 255);
+
+}
+
+.wht2:hover{
+    box-shadow: 1px 1px 25px 1px  rgb(255, 255, 255);
+}
+
+.wht3:hover{
+    box-shadow: 1px 1px 25px 1px  rgb(255, 255, 255);
+
+
+}
+
+
+.i1{
+    margin-left: -150px;
+}
+
+
+
+
+.voltar2 {
+    background-color: rgba(177, 185, 177, 0.671);
+    text-decoration: none;
+    color: black;   
+    padding: 8px;
+    border-radius: 50px;
+    
+
+}
+
+
+footer{
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: -10;
+
+    
+
+}
+
+sub{
+    background-color: rgb(0, 0, 0);
+    border: solid 5px rgb(7, 7, 7);
+    border-radius: 25px;
+    padding: 1px;
+}
+
+.voltar2:hover{
+    color: rgb(255, 0, 0);
+    
+}
+
+
+.voltar:hover{
+
+    color: red;
+
+}

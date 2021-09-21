@@ -1,0 +1,188 @@
+
+
+
+Body{
+    background-color: royalblue;
+    padding: auto;
+
+}
+
+.titulo{
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    color: rgb(255, 251, 251);
+    text-align: center;
+    margin: auto;
+    border: solid 5px white;
+    border-radius: 25px;
+    padding: 10px;
+       
+}
+
+.texto1{
+    margin: auto;
+    margin-top: 50px;
+    color: rgb(255, 251, 251);
+
+}
+
+ul{
+    color: wheat;
+}
+
+.meio{
+    margin-top: 100px;
+}
+
+.texto2, .fim{
+    color: wheat;
+    border: dashed 3px black ;
+    margin-top: px;
+    padding-left: 20px;
+    margin-left: 40px;
+    width: 65%;
+}
+
+
+
+.meio img{
+    margin-left: 1000px;
+    margin-top: -200px;
+    border: dashed 3px black;
+    border-radius: 50%;
+}
+
+.fim{
+    color: wheat;
+    border: solid 3px black ;
+     padding-left: 20px;
+    margin-left: 40px;
+    width: 20%;
+}
+
+a {
+    text-decoration: none ;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+
+a:hover{
+    color: white;
+}
+
+.contato{
+
+    margin-left: 150px;
+    margin-top: -65px;
+
+}
+
+
+.contato1{
+ 
+    width: 20%;    
+    font-size: 20px;
+    margin-left: 40px;
+    padding: 0px;
+}
+
+
+.wht{
+    margin-top: 15px;
+    margin-left: 150px;
+    border-radius: 15px;
+    text-decoration: none;
+
+}
+
+.wht2{
+    margin-left: 15px;
+    margin-top: auto;
+    border-radius: 40px;
+
+    
+
+}
+
+.wht3{
+    margin-left: 15px;
+    margin-top: px;
+    border-radius: 10px;
+    
+    
+
+    }
+
+
+.wht:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+
+}
+
+.wht2:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+}
+
+.wht3:hover{
+    box-shadow: 1px 1px 25px 1px  white;
+
+
+}
+
+
+.i1{
+    margin-left: -150px;
+}
+
+
+.voltar{
+    background-color: rgba(177, 185, 177, 0.671);
+    text-decoration: none;
+    color: black;   
+    padding: 5px;
+    border-radius: 50px;
+    
+}
+
+.voltar2 {
+    background-color: rgba(177, 185, 177, 0.671);
+    text-decoration: none;
+    color: black;   
+    padding: 5px;
+    border-radius: 50px;
+    
+
+}
+
+
+footer{
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: -10;
+
+    
+
+}
+
+sub{
+    background-color: royalblue;
+    border: solid 5px rgb(7, 7, 7);
+    border-radius: 25px;
+}
+
+.voltar2:hover{
+    color: rgb(35, 4, 145);
+    
+}
+
+
+.voltar:hover{
+
+    color: red;
+
+}

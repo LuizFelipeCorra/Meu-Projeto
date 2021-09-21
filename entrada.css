@@ -1,0 +1,30 @@
+body{ background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+
+button{
+    
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 650px;
+   
+    
+
+}
+
+a {
+     text-decoration: none;
+}
+
+
+
+button:hover{
+    box-shadow: 1px 1px 15px 1px white;
+    cursor: pointer;
+    
+}
